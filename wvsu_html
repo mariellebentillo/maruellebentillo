@@ -20,12 +20,6 @@
             padding: 50px;
            text-align: center;
         
-        logo {
-            width: 150px;
-            height: 150px;
-            border: 2px solid;
-            border-radius: 10px;
-        }
         
      
        }
@@ -43,12 +37,6 @@
             
         }
  
-        header img {
-            max-width: 80px;
-            height: auto; 
-            display: block;
-            margin: 0 auto;
-        }
 
         h1 {
             margin: 10px;
@@ -71,7 +59,7 @@
             background-color: #FFFDD0;
             color: blue;
             text-align: center;
-            padding: 5px;
+            padding: 10px;
             position: fixed;
             bottom: 0;
             width: 100%;
@@ -100,7 +88,6 @@
 
 <body>
     <header>
-        <img src="mylogo.jpeg" alt="West Visayas State University - Lambunao Campus Logo">
         
         <h1>West Visayas State University - Lambunao Campus</h1>
     </header>
