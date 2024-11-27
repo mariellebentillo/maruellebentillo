@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>West Visayas State University - Lambunao Campus</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            color: black;
+            background-color: pink;
+            margin: 5;
+            padding: 5;
+        }
+
+        header {
+            background-color: #FFFDD0;
+            color: blue;
+            padding: 50px;
+           text-align: center;
+        
+        logo {
+            width: 150px;
+            height: 150px;
+            border: 2px solid;
+            border-radius: 10px;
+        }
+        
+     
+       }
+       
+       .container
+       padding-top: 20px;
+       
+           
+        }
+        
+        .section-title {
+        text-align: center;
+        color: blue;
+        margin-bottom: 20px;   
+            
+        }
+ 
+        header img {
+            max-width: 80px;
+            height: auto; 
+            display: block;
+            margin: 0 auto;
+        }
+
+        h1 {
+            margin: 10px;
+        }
+
+        main {
+            padding: 1em;
+        }
+
+        section {
+            margin-bottom: 1em;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+
+        footer {
+            background-color: #FFFDD0;
+            color: blue;
+            text-align: center;
+            padding: 5px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+            main {
+                padding: 0.5em;
+            }
+
+            section {
+                margin-bottom: 0.5em;
+            }
+
+            h1, h2 {
+                font-size: 1.2em; 
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1, h2 {
+                font-size: 1em; 
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <img src="mylogo.jpeg" alt="West Visayas State University - Lambunao Campus Logo">
+        
+        <h1>West Visayas State University - Lambunao Campus</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Vision</h2>
+            <p>A research university advancing quality education towards societal transformation and global recognition.</p>
+        </section>
+
+        <section>
+            <h2>Mission</h2>
+            <p>WVSU commits to develop life-long learners empowered to generate knowledge and technology, and transform
+                communities as agents of change.</p>
+        </section>
+
+        <section>
+            <h2>Core Values</h2>
+            <ul>
+                <li>Excellence</li>
+                <li>Creativity and Innovation</li>
+                <li>Service</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Courses Offered</h2>
+            <ul>
+                <li>Bachelor of Science in Criminology</li>
+                <li>Bachelor of Science in Elementary Education</li>
+                <li>Bachelor of Science in Secondary Education</li>
+                <li>Bachelor of Science in Technical-Vocational Teacher Education</li>
+                <li>Bachelor of Science in Hospitality Management</li>
+                <li>Bachelor of Science in Information Technology</li>
+                <li>Bachelor of Science in Industrial Technology</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contact Information</h2>
+            <p>Ladrido Street, Poblacion Ilawod,<br>Lambunao, Iloilo, Philippines 5042</p>
+            <p>Trunkline: (033) 533-8053 loc 132</p>
+            <p>Website: <u>www.wvsu.edu.ph</u></p>
+            <p>Email Address: lambunao@wvsu.edu.ph</p>
+        </section>
+
+
+    <footer>
+        <p> <u>Coded by:  Marielle D. Bentillo</u></p>
+    </footer>
+</body>
+
+</html>
